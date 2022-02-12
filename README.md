@@ -14,6 +14,7 @@
 As an employee with a busy schedule, I want to add important events to a daily planner, so that I can manage my time effectively.
 
 ![screenshot](https://github.com/Benjamineidum/Planner/blob/main/assets/images/screenshot.png)
+Screen capture taken at 5:45pm local time, will update to show screen capture with past, present and future times to show color-coded feature
 
 ## Link to Deployed Application
 https://benjamineidum.github.io/Planner/
